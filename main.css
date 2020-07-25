@@ -272,3 +272,6 @@ strong{
   background-color: red;
 
 }
+html,body{
+  overflow-x: hidden;
+}
